@@ -1,4 +1,4 @@
-# AFP Rubriques
+# AFP Rubriques for WordPress
 
 A WordPress plugin written for The Citizen, https://citizen.co.za, to facilitate the import of automated rubriques from Agence France Presses
 
@@ -60,8 +60,10 @@ This passes the post ID after the post is imported, categories are applied, meta
 
 v1.1 21 March 2020
 - Changed delivery path check to differentiate between missing/invalid path and missing AFP delivery directory tree
+
 v1.0.1 21 April 2019
 - Improved error handling for empty xml objects
 - Added filesize() check before xml object creation
+
 v1.0.2 22 April 2019
 - Removed bug which caused loop to stall on corrupt files
