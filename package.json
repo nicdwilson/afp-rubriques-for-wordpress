@@ -1,0 +1,12 @@
+{
+  "name": "afp-rubriques",
+  "version": "0.0.1",
+  "dependencies": {},
+  "description": "AFP Rubrics WordPress plugin for management of all aspects of AFP Rubrique feeds",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nic Wilson",
+  "license": "MIT"
+}
