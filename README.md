@@ -1,6 +1,6 @@
 # AFP Rubriques for WordPress
 
-A WordPress plugin written for The Citizen, https://citizen.co.za, to facilitate the import of automated rubriques from Agence France Presses
+A WordPress plugin written for The Citizen, https://citizen.co.za, to facilitate the import of automated rubriques from Agence France Presse
 
 ## Filters
 
